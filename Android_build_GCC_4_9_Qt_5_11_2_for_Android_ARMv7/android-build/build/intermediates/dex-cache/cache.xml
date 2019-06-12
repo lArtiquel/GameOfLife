@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Artyom\QTWorkspace\GameOfLife\build-conway-Android_armeabi_v7a_GCC_4_9_Qt_Qt_5_11_2_for_Android_ARMv7-Release\android-build\libs\QtAndroid.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="fb64fced8b3f09be773554c6b3310fca35f114b8">
+        <dex dex="D:\Artyom\QTWorkspace\GameOfLife\build-conway-Android_armeabi_v7a_GCC_4_9_Qt_Qt_5_11_2_for_Android_ARMv7-Release\android-build\build\intermediates\pre-dexed\debug\QtAndroid_046a8a716aabfe5864081362ad996cb9f1aa6af2.jar" />
+    </item>
+
+</items>
